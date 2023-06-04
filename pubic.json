@@ -1,0 +1,16 @@
+{
+  "prompts": [
+    "Help me to translate the following from Vietnamese to English yourself with @@intent@@ intention: @@sentence@@. You only answer me with format 'BingAITranslateText: translated_text'",
+    "Translate me the following from Vietnamese to English yourself with @@intent@@ intention, without using a web translation service: @@sentence@@. You only answer me with format 'BingAITranslateText: translated_text",
+    "Write me the following from Vietnamese to English yourself with @@intent@@ intention, without using a web translation service: @@sentence@@. You only answer me with format 'BingAITranslateText: translated_text'",
+    "Translate @@sentence@@ to English with @@intent@@ intention. You should anwser me with format 'BingAITranslateText: translated_text'"
+  ],
+  "tokens": {
+    "bing": [
+      "1W0IYpknnIWLqhwvmXuw8GDpSteMUSMnCwdEYv_Wzs0J9r0e69korOjpEJ5FDOwro_MGV8yZu0_6ocxazVm14R7LUi7w0hdNQxq92En1T-yVGAUCN6m2R6j-T09hIIja8oH1V29v8qUIZ1_YgXz2QBNZcF7jIqa7YOZuhIa-gpP-f1eBdeXzc5fJxIXFdKFyMPu6GmgFH_7pDy9LC13HGTQ"
+    ],
+    "openai": [
+      "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"
+    ] 
+  }
+}
